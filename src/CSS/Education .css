@@ -1,0 +1,15 @@
+.education {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .education h2 {
+    font-weight: bold;
+  }
+  
+  .education p {
+    font-style: italic;
+  }
+  
